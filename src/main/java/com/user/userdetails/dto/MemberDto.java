@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class MemberDto {
-
+// B2 added this change
     int id;
     String name;
     int age;

@@ -4,7 +4,7 @@ package com.user.userdetails.dto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+//creates getters and setters
 @Data
 @NoArgsConstructor
 public class MemberDto {

@@ -12,6 +12,7 @@ import lombok.Data;
 @Data
 public class User {
 
+    //increment id auto
     @Id
     @GeneratedValue
     private int userId;

@@ -16,6 +16,7 @@ import java.util.Optional;
 @RequestMapping("/users")
 public class Controller {
 
+    //dependency injection
     @Autowired
     UserRepository repo;
     @Autowired

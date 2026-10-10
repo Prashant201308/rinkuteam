@@ -17,5 +17,6 @@ public class MemberDto {
         this.id =id;
         this.name = name;
         this.age = age;
+        //Jaini has got some aura
     }
 }
